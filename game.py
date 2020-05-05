@@ -85,7 +85,7 @@ if __name__== "__main__" :
       elif f==2:
         print("WINNER IS PLAYER 2")
         break
-      elif m==9:
+      elif m==n**2:
         print("IT IS A TIE ")
         break
 
